@@ -7,11 +7,9 @@ public class MultilevelInheritance {
 		 obj.method1();
 		 obj.method2();
 		 obj.method3();
-		 
 	}
 
 }
-
  class Base{
 	public void method1() {
 		System.out.println("This is method1");
