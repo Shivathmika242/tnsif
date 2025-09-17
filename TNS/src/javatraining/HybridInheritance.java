@@ -9,9 +9,7 @@ public class HybridInheritance {
          sa.displaySports();
 	     sa.displaySkills();
          sa.displayAthlete();
-
 	}
-
 }
 
 class Person {
@@ -33,7 +31,6 @@ interface Sports {
 interface Skills {
     void displaySkills();
 }
-
 
 class StudentAthlete extends Student5 implements Sports , Skills {
     public void displaySports() {
