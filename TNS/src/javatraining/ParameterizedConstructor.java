@@ -22,6 +22,7 @@ class Rectangle {
         breadth = b;
     }
 
+    
     int area() {
         return length * breadth;
     }
