@@ -28,11 +28,9 @@ public class StringBufferMethods {
 		        System.out.println("After reverse: " + sb);
 
 		        // 6. substring() → extract a part of the string
-		        // NOTE: We need to reverse back to original before taking substring
 		        sb.reverse(); // reversing back to "Hello"
 		        System.out.println("Substring(1,4): " + sb.substring(1,4));
 		  
-
 	}
 
 }
