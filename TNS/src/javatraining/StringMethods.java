@@ -14,7 +14,6 @@ public class StringMethods {
         System.out.println("Character at index 1: " + str1.charAt(1));
 
         // 3. compareTo()
-        // 0 if equal, positive if str1 > str2, negative if str1 < str2 (lexicographically)
         System.out.println("compareTo result: " + str1.trim().compareTo(str2));
 
         // 4. contains()
