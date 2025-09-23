@@ -1,4 +1,4 @@
-package javatraining;
+package wrapperclass;
 
 public class Wrapperclass {
 	
