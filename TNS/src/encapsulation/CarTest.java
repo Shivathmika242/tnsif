@@ -1,4 +1,4 @@
-package javatraining;
+package encapsulation;
 
 class Car{
 	String color="Black";
