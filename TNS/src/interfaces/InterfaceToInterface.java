@@ -1,4 +1,4 @@
-package javatraining;
+package interfaces;
 
 public class InterfaceToInterface {
 

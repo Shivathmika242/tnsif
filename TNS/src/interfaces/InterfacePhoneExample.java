@@ -1,4 +1,4 @@
-package javatraining;
+package interfaces;
 
 
 //Phone.java  (Interface)
