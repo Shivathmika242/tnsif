@@ -1,4 +1,4 @@
-package javatraining;
+package abstraction;
 
 public class Abstraction {
 
