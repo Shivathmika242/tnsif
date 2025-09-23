@@ -1,4 +1,4 @@
-package javatraining;
+package keywords;
 
 class Animalll {
     String color = "Brown";
