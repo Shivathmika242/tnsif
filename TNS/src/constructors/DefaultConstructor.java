@@ -1,4 +1,4 @@
-package javatraining;
+package constructors;
 
 public class DefaultConstructor {
 
