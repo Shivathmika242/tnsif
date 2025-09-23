@@ -1,4 +1,4 @@
-package javatraining;
+package polymorphism;
 
 public class MethodOverloading {
 
