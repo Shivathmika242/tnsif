@@ -16,7 +16,7 @@ public class TypeCasting {
         int i2 = 130;
         byte b2 = (byte) i2;
         System.out.println(" int to byte  = " + b2);
-
+        
         
         //  long → short
         long l2 = 40000;
