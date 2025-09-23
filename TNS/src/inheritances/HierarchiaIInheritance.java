@@ -1,4 +1,4 @@
-package javatraining;
+package inheritances;
 
 //Parent class
 class Book {

@@ -1,4 +1,4 @@
-package javatraining;
+package inheritances;
 
 public class HybridInheritance {
 
