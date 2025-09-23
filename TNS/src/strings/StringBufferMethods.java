@@ -1,4 +1,4 @@
-package javatraining;
+package strings;
 
 public class StringBufferMethods {
 
