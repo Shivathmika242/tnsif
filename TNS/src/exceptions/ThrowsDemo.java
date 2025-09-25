@@ -3,11 +3,18 @@ package exceptions;
 
 class Hello{
 	
-	String s=null;
-	int len=s.length();
+	
+	
 	public Hello() throws Exception{
-		System.out.println(len);
-		throw new Exception("It is nullpointer exception");
+		if(String s=null){
+
+			System.out.println(s.length());
+			throw new Exception("It is nullpointer exception");
+		}
+		else {
+			System.out.println("No error");
+		}
+		
 	}
 }
 

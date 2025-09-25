@@ -3,7 +3,7 @@ package basicprograms;
 public class Loops {
 
 	public static void main(String[] args) {
-		//while loop
+		        //while loop
 				System.out.println("WHILE LOOP");
 				int i=1;
 				while(i<10) {
@@ -11,7 +11,7 @@ public class Loops {
 					i++;
 				}
 				
-			   //do while loop
+			    //do while loop
 				System.out.println("DO WHILE LOOP");
 				int j=10;
 				do {
@@ -25,8 +25,7 @@ public class Loops {
 				for(int k=1;k<5;k++) {
 					System.out.println(k);
 				}
-			
-
+		
 	}
 
 }

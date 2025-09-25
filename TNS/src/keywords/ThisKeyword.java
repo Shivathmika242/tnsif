@@ -16,7 +16,7 @@ class Example{
 	public void show() {
 		int a = 30;
 		System.out.println("a = "+a);
-		System.out.println("a = "+this.a);
+		System.out.println("a = "+ this.a);
 	}
 }
 
