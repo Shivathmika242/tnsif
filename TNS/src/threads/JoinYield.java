@@ -23,7 +23,6 @@ public class JoinYield {
 
      t1.start();
      t2.start();
-
      try {
          // main thread waits until t1 finishes
          t1.join();
